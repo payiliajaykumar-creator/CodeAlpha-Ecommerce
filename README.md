@@ -160,4 +160,4 @@ Project Type: Internship Project
 
 Status: Academic/Internship Project
 
-Note: Update the technology stack, endpoints, project structure, and run instructions to match the actual repository. Do not list features or dependencies that are not present in the code.
+
